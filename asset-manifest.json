@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://d-yokosan.github.io/csb-jj6bgc/static/css/main.f4a1d937.chunk.css",
+    "main.js": "https://d-yokosan.github.io/csb-jj6bgc/static/js/main.a99c495c.chunk.js",
+    "main.js.map": "https://d-yokosan.github.io/csb-jj6bgc/static/js/main.a99c495c.chunk.js.map",
+    "runtime-main.js": "https://d-yokosan.github.io/csb-jj6bgc/static/js/runtime-main.77a426d4.js",
+    "runtime-main.js.map": "https://d-yokosan.github.io/csb-jj6bgc/static/js/runtime-main.77a426d4.js.map",
+    "static/js/2.4cd6a6e3.chunk.js": "https://d-yokosan.github.io/csb-jj6bgc/static/js/2.4cd6a6e3.chunk.js",
+    "static/js/2.4cd6a6e3.chunk.js.map": "https://d-yokosan.github.io/csb-jj6bgc/static/js/2.4cd6a6e3.chunk.js.map",
+    "index.html": "https://d-yokosan.github.io/csb-jj6bgc/index.html",
+    "static/css/main.f4a1d937.chunk.css.map": "https://d-yokosan.github.io/csb-jj6bgc/static/css/main.f4a1d937.chunk.css.map",
+    "static/js/2.4cd6a6e3.chunk.js.LICENSE.txt": "https://d-yokosan.github.io/csb-jj6bgc/static/js/2.4cd6a6e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77a426d4.js",
+    "static/js/2.4cd6a6e3.chunk.js",
+    "static/css/main.f4a1d937.chunk.css",
+    "static/js/main.a99c495c.chunk.js"
+  ]
+}
